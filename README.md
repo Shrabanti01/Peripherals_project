@@ -34,6 +34,6 @@ A fire detection and suppression system that uses flame sensors and automated co
 - Power the system.  
 
 ## Further Information
-For more details, refer to the report: **"Autometic Fire Extinguisher.pdf"**  
+For more details, refer to the report: **"Autometic_Fire_Extinguisher.pdf"**  
 
 
